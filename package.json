@@ -1,0 +1,26 @@
+{
+  "name": "generatepath",
+  "version": "1.0.0",
+  "description": "Generate dynamic paths from string",
+  "main": "generatePath.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danish-khan-I/generatePath.git"
+  },
+  "keywords": [
+    "generatePath",
+    "dynamic",
+    "slug",
+    "url",
+    "generate"
+  ],
+  "author": "Danish Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danish-khan-I/generatePath/issues"
+  },
+  "homepage": "https://github.com/danish-khan-I/generatePath#readme"
+}
