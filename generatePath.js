@@ -446,3 +446,5 @@ function encodeAsterisk(str) {
   });
 }
 
+module.exports = generatePath
+
